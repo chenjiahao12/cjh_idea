@@ -9,6 +9,7 @@ package com.cjh.git;
 public class Demo {
     public static void main(String[] args) {
         System.out.println("git idea test update 1 ");
+        System.out.println("组员提交");
         System.out.println("组长提交");
     }
 }
